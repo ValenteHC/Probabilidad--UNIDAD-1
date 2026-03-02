@@ -1,3 +1,3 @@
-# Probabilidad- UNIDAD 1
+# Probabilidad y estadistica
 
 Programas de probabilidad y estadistica 
